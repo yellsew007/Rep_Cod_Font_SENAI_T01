@@ -5,6 +5,7 @@ if (18 >= 18) console.log ("Cadastro Realizado com Sucesso!");
 else console.log ("Cadastro Negado.")
 
 var TotalDeCadastro =0
+
 while (TotalDeCadastro <=100) {
      console.log ("Cadastro Realizado com Sucesso!");
 TotalDeCadastro++
